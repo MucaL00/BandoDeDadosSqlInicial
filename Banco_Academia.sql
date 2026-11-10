@@ -1,5 +1,5 @@
-CREATE DATABASE Banco_Academia_ísis; -- Criar banco de dados Banco_Academiaa_ísis 
-USE Banco_Academia_ísis; --Selecionar o banco de dados 
+CREATE DATABASE Banco_Academia_Samuel; -- Criar banco de dados Banco_Academia_Samuel
+USE Banco_Academia_Samuel; --Selecionar o banco de dados 
 
 FROM sys.databases 
 ORDER BY name; 
